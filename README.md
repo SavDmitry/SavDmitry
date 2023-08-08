@@ -1,4 +1,6 @@
-Hi, I’m **Dmitrii Savrasov**, a Junior Data Analyst with the past 6 years of experience working as a process engineer in the oil and gas industry.
+# Hi there :wave:
+# I’m Dmitrii Savrasov
+Junior Data Analyst with the past 6 years of experience working as a process engineer in the oil and gas industry. I am looking for opportunities in Data Analysis World to broaden my knowledge and develop myself as a professional.
 
 
 **Technological Stack**
