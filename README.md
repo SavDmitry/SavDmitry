@@ -7,7 +7,9 @@ Python, SQL, Tableau, Excel
 ***
 **Libraries**
 
-Pandas, Seaborn, Matplotlib, Plotly, NumPy, SciPy, 
+Pandas, Seaborn, Matplotlib, Plotly, NumPy, SciPy
+***
+Feel free to reach out to me via Telegram <https://t.me/dmitrii_sa>
 <!---
 SavDmitry/SavDmitry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
